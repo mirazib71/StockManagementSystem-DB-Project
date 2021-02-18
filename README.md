@@ -1,0 +1,2 @@
+# StockManagementSystem-DB-Project
+CSE 3.2 DATABASE PROJECT USING JAVA GUI
